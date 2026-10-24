@@ -23,42 +23,58 @@ HELLOOOOOOOO.
     <summary>˚ ༘ ೀ⋆｡˚ about me!</summary>
 > *"I get into conflicts easily and can be a little rude sometimes, but I always regret my behavior, so PLEASE keep that in mind!!! Once I’ve cooled down, I might apologize to you.
 I can be a little paranoid and tend to interpret events, words, and actions in my own way, which isn’t always accurate.
-I’m usually very quiet, but around my angel, I become more active and am much more likely to slip into an aggressive mood. It’s not because of jealous, but because of an emotional high!
-If needed, I can add more information about myself.."*
+I’m usually very quiet, but around my angel, I become more active and um much more likely to slip into an aggressive mood. It’s not because of jealous, but because of an emotional high!
+If needed, I can add more information about myself."*
 </details>
+
+<div align="center">
 
 ♡ **age:** 16 y.o.
 
+<div align="left">
+
+
 ♡ **gender:** male! im tmasc
+
+<div align="center">
 
 ♡ **orientation:** hetero
 
+<div align="left">
+
 ♡ **pronouns:** he/him
 
+
+<div align="center">
+
 ♡ **MBTI:** ISTP
+
+
+<div align="left">
 
 ♡ **enneagram:** sp145
 
 <br clear="left">
 
-<div align="center">    
-<img src="assets/sparkles.gif" width="35" alt="Sparkles">
+<div align="center">
+
+<img alt="uba" src="https://i.pinimg.com/originals/8c/aa/82/8caa821d217b23a59e0f9934ad32ba6c.gif" width="100"  />
 
 <div align="center">    
 </div>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315ojuwwsbjrhupoedlzzvk5yu5u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ojuwwsbjrhupoedlzzvk5yu5u&cover_image=true&theme=natemoo-re&show_offline=true&background_color=dbcdc5&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
-    
-<img src="https://i.pinimg.com/originals/b2/44/ba/b244ba59ec7f43525c8ef707b1b8e23c.gif" width="65%" alt="221313">
-
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ojuwwsbjrhupoedlzzvk5yu5u&cover_image=true&theme=natemoo-re&show_offline=true&background_color=dbcdc5&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">    
+    <div align="center"> 
+<img src="https://github.com/user-attachments/assets/d07aef25-9aba-48a5-bb6f-52d9a4823afb" width="65%" alt="изображение"/>
 </div>
 
-<!-- ABOUT ME -->
+</div>
+<!-- обо мне -->
 
 <details>
 <summary>⋆ ˚｡⋆୨୧˚ O, you want to know more?! ୨୧</summary>
 
-<img align="right" src="https://i.pinimg.com/originals/ee/91/c7/ee91c78c33308d1e84dc9d29435a317f.gif" width="150" alt="bnuyy">
+<img align="right" src="https://i.pinimg.com/originals/30/50/d3/3050d3b5ea671bab86f6b6bc2b3f090b.gif" width="150" alt="полетели">
 
 ♡ **birthday:** 9th of june!
 
@@ -75,7 +91,7 @@ If needed, I can add more information about myself.."*
 <details>
 <summary>♡ DNI ♡</summary>
     
-<img align="left" src="https://i.pinimg.com/originals/cf/51/de/cf51de944668431b1c81c0b340577063.gif" width="200" alt="Pink heart">
+<img align="left" src="https://i.pinimg.com/originals/85/27/c4/8527c4ba0c7b55af106e0bab02483481.gif" width="200" alt="222313">
 
 ♡ **DNI list:** “Tolerance police”;People under 15-16;People who butt into my business or my conversation partner’s business without knowing either of us;All time whining about their bad-bad life;Any sick shit that ends in “-philia”;“How can you ship those two together??” — straight to hell!!;hides for no reason;rad.feminists, "feminists", fans of Anya Yenina;Proshippers, darkshippers, selfshippers, and all that other bullshit; Russophobes;Politicians;The Freak Circus fandom;Undertale fandom;The Dandy’s World fandom
 
@@ -83,23 +99,23 @@ If needed, I can add more information about myself.."*
 
 </details>
 
-<!-- OTHER STUFF -->
+<!-- еще чота -->
 
-<!-- GALLERY -->
+<!-- мемi -->
 
 <details>
-<summary>🎀 my little gallery 🎀</summary>
+<summary>MEMEESS!!! ʚɞ ⁺˖ ⸝⸝</summary>
 
-iv align="center">
+<div align="center">
 
-<img src="assets/gallery-1.gif" width="32%" alt="Gallery GIF 1">
-<img src="assets/gallery-2.png" width="32%" alt="Gallery image 2">
-<img src="assets/gallery-3.gif" width="32%" alt="Gallery GIF 3">
+<img src="https://i.pinimg.com/736x/58/ab/c1/58abc16e88176bb7f8762872118298b9.jpg" width="32%" alt="idk">
+<img src="https://i.pinimg.com/736x/9b/19/3b/9b193b48a290ae3339dce2d43af20c10.jpg" width="32%" alt="idk">
+<img src="https://github.com/user-attachments/assets/d1615192-42ec-4335-9437-9405a84e1346"width="32%" alt="а можна баллы списат">
 
-mg src="assets/gallery-4.png" width="45%" alt="Gallery image 4">
-<img src="assets/gallery-5.gif" width="45%" alt="Gallery GIF 5">
+<img src="https://i.pinimg.com/736x/b5/2c/3d/b52c3dd01beb17028a628ea205c84f00.jpg" width="45%" alt="Gallery image 4">
+<img src="https://github.com/user-attachments/assets/49b81dca-c739-4915-886c-a2a896db5023" width="45%" alt="Gallery GIF 5">
 
-more pictures coming soon! ♡
+-ˋˏ✄┈┈┈┈ kinda obsessed w stupid memes 6w9
 
 </div>
 
@@ -108,18 +124,12 @@ more pictures coming soon! ♡
 <!-- Рандомная хуйня хохохох -->
 
 <details>
-<summary>💌 extra stuff & secrets</summary>
-g align="right" src="https://i.pinimg.com/originals/cf/51/de/cf51de944668431b1c81c0b340577063.gif" width="100" alt="Cute pink envelope">
+<summary>‧₊˚✩彡 fandoms! </summary>
+<img align="right" src="https://i.pinimg.com/originals/b5/2c/a2/b52ca211bcebe96241c1bb3129227797.gif" width="20%" alt="NUKE">
 
-♡ **currently obsessed with:** text
+♡ **Fandoms that i know:** RE, Dishonored, Metal Gear, MDZS, TGCF, HSR, COD, LoL, MKB, TF,OW2, ORV, Ultrakill, VLD, UT , Twisted Wonderland, Sonic, APEX, DMC, ATLA, CH, Marvel, DC, SPN, PJSK, ALNST, okegom, minecraft smp, most of popular anime's!!, roblox
 
-♡ **currently listening to:** text
-
-♡ **my mood:** text
-
-♡ **random fact:** text
-
-♡ **message to visitors:** text
+♡ **Main Fandoms:** UUSMP, Heartless horizon smp, SSMP, DSMP, Roblox(because of my angel), apex, UT(rarely appearing on it's area)
 
 <br clear="right">
 
@@ -129,11 +139,11 @@ g align="right" src="https://i.pinimg.com/originals/cf/51/de/cf51de944668431b1c8
 
 <img src="assets/pink-divider.gif" width="70%" alt="Pink divider">
 
-♡ thank you for visiting my page! ♡
+｡ﾟ•┈୨♡୧┈• ｡ﾟ thank you for visiting my page! ┈• ｡ﾟ
 
 <img src="https://i.pinimg.com/originals/cf/51/de/cf51de944668431b1c81c0b340577063.gif" width="180" alt="Cute pink footer">
 
-</sub>made in China -w-</sub>
+</sub>-w-</sub>
 
 
 
