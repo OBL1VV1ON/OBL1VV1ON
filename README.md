@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="assets/pink-header.gif" width="100%" alt="Pink kawaii header">
+<img src="https://i.pinimg.com/originals/8d/20/74/8d2074f264de492e1fba076c45321e59.gif" width="100%" alt="Pink kawaii header">
 
-<img src="assets/bow.gif" width="45" alt="Pink bow">
+<img src="https://github.com/user-attachments/assets/69e3d311-8891-4ba8-a239-b60e6af0aa59" width="45" alt="кроличьки">
 
 # ♡ your name here ♡
 
