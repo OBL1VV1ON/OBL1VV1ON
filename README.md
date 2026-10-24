@@ -4,7 +4,7 @@ HELLOOOOOOOO.
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8d/20/74/8d2074f264de492e1fba076c45321e59.gif" width="100%" alt="Pink kawaii header">
+<img src="https://i.pinimg.com/originals/d4/25/ed/d425edf2374383316057719ec47a746d.gif" width="100%" alt="Pink kawaii header">
 
 <img src="https://github.com/user-attachments/assets/52616ca8-44a3-429a-a652-5af88a995fb9" width="110" alt="кроличьки">
 
