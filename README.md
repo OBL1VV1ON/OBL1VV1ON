@@ -52,7 +52,7 @@ If needed, I can add more information about myself."*
 
 <div align="left">
 
-♡ **enneagram:** sp145
+♡ **enneagram:** sp5w6
 
 <br clear="left">
 
