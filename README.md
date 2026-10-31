@@ -63,7 +63,7 @@ If needed, I can add more information about myself."*
 <div align="center">    
 </div>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315ojuwwsbjrhupoedlzzvk5yu5u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ojuwwsbjrhupoedlzzvk5yu5u&cover_image=true&theme=natemoo-re&show_offline=true&background_color=dbcdc5&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">    
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315ojuwwsbjrhupoedlzzvk5yu5u&cover_image=true&theme=natemoo-re&show_offline=true&background_color=dbcdc5&interchange=false&profanity=false&hide_remaster=false&bar_color=f499a3&bar_color_cover=false">    
     <div align="center"> 
 <img src="https://github.com/user-attachments/assets/d07aef25-9aba-48a5-bb6f-52d9a4823afb" width="65%" alt="изображение"/>
 </div>
