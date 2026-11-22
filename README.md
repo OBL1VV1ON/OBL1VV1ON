@@ -86,9 +86,3 @@ DNI(uf) or iwec most of the time
 <img src="https://i.pinimg.com/originals/b4/68/62/b46862dcadb95ec77a3d0230cb80f2ad.gif" width="100%" />
 
 </div>
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/f75172b8-c0c0-4787-8c43-c830716a24cf" width="120" />
-
-</div>
