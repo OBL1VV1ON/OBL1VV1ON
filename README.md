@@ -18,7 +18,7 @@ Sol | Solar
 <p align="left">
 ISTP, sx6w5 (sx8w9so4)
 <p align="right">
-they/them. Irl woman
+they/them or any. Irl woman
   <p align="center">
   We have 2 possible diagnoses — F21 and F92 in ICD 10
 </p>
